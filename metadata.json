@@ -1,0 +1,32 @@
+{
+    "$schema": "https://go.kicad.org/pcm/schemas/v1",
+    "name": "PCHI KiCad Libraries",
+    "description": "KiCad footprint and symbol libraries focused mostly on Eurorack synthesizers",
+    "description_full": "Contains footprints and symbols used in the design of Eurorack modules and panels.",
+    "identifier": "com.github.The-Power-Company-Heavy-Industries.pchi-kicad-libraries",
+    "type": "library",
+    "author": {
+        "name": "Brandon Domangue",
+        "contact": {
+            "github": "https://github.com/lowtied"
+        }
+    },
+    "maintainer": {
+        "name": "Brandon Domangue",
+        "contact": {
+            "github": "https://github.com/lowtied"
+        }
+    },
+    "license": "MIT",
+    "resources": {
+        "homepage": "https://github.com/The-Power-Company-Heavy-Industries/pchi-kicad-libraries"
+    },
+    "versions": [
+        {
+            "version": "0.1",
+            "status": "testing",
+            "kicad_version": "9.0"
+        }
+    ]
+}
+
